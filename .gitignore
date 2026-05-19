@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+env/
+.env
+
+# 项目数据与配置（如果 config.py 包含私密信息，也加入）
+data/
+*.db
+*.sqlite3
+chroma_db/
+
+# 模型文件（避免上传大文件）
+*.gguf
+*.bin
+*.onnx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# 其他
+.DS_Store

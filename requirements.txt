@@ -1,0 +1,6 @@
+textual>=0.45.0
+chromadb>=0.4.22
+sentence-transformers>=2.2.2
+pydantic>=2.5.0
+rich>=13.7.0
+markdown>3.5
